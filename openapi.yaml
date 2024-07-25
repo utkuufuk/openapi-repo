@@ -79,7 +79,7 @@ paths:
     post:
       tags:
       - pet
-      summary: Add a new pet to the store
+      summary: Add a new pet (dog or cat) to the store
       description: Add a new pet to the store
       operationId: addPet
       requestBody:
